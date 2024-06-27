@@ -1,0 +1,19 @@
+.box{
+    opacity: 0.5;
+    font-size:20px;
+    height:400px;
+    width:600px;
+    border:2px blue;
+    padding:20px;
+    margin:20px;
+    
+    margin-left: 500px;
+    border-radius: 40px;
+    background-color:white;
+    
+} 
+body { 
+    background-image: url("../img/admin.webp");
+    background-size: 100%;
+    background-color: #cccccc;
+}
